@@ -132,7 +132,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       social = true
       disclaimer = ""
     [params.home.posts]
-      enable = false
+      enable = true
       paginate = 6
   [params.social]
     GitHub         = "mH4ck3r0n3"
